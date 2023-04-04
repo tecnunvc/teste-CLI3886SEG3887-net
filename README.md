@@ -113,7 +113,7 @@ entregas
 ##### 15.2 Crie uma consulta que cruze a tabela de alunos e a tabela de campus e identifique em quais campus cada aluno estuda.
 
 ##### 15.3 Você acha possível melhorar a consulta do item 15.2? Se sim, como?
-	Sua resposta deve estar no arquivo README.md do seu projeto.
+	Responda no arquivo README.md do projeto.
 
 #### 16) Remova todos os alunos com menos de 20 anos e que o nome possua mais de 5 caracteres.
 
